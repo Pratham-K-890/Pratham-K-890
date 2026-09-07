@@ -1,9 +1,8 @@
 # Hi, I'm Pratham 👋
 
-3rd-year B.E. AI/ML student at Dayananda Sagar College of Engineering, Bengaluru — building agentic systems, RAG pipelines, and backend APIs, and looking for a GenAI/backend internship.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=3rd-year+AI%2FML+student+%40+DSCE+Bengaluru;Building+RAG+pipelines+%26+LLM+agents;FastAPI+%2B+React+%2B+LangGraph+%2B+PostgreSQL;Open+to+GenAI+%2F+Backend+internships)](https://git.io/typing-svg)
 
 - 🎓 B.E. AI/ML @ Dayananda Sagar College of Engineering — GPA 9.30
-- 🛠️ Technical Team Member @ CodeZero Technical Club, DSCE
 - 🧠 Currently deep in RAG pipelines, multi-agent orchestration (LangChain/LangGraph/CrewAI), and full-stack backend dev
 - 👨‍🏫 Have taught FastAPI & ML to students at JIT Davangere and tutor DSA
 - 📫 Reach me at kpratham883@gmail.com · [LinkedIn](https://www.linkedin.com/in/pratham-k-399b81334)
@@ -44,8 +43,26 @@ Top-50 and Top-22 finishes.
 
 ## 📈 GitHub Stats
 
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratham-K-890&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-K-890&layout=compact)
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pratham-K-890&show_icons=true&theme=default&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-K-890&layout=compact&theme=default" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-K-890&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pratham-K-890&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- snake-github-user-grid -->
+![snake gif](https://raw.githubusercontent.com/Pratham-K-890/Pratham-K-890/output/github-contribution-grid-snake.svg)
+<!-- snake-github-user-grid -->
 
 ---
 
@@ -54,5 +71,9 @@ Top-50 and Top-22 finishes.
 Advanced multi-agent orchestration patterns and MLOps — working through a phased AI development curriculum and a 4-month ML mastery plan alongside coursework.
 
 ---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Pratham-K-890&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
+</p>
 
 ⭐️ From [Pratham-K-890](https://github.com/Pratham-K-890)
