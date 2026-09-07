@@ -44,16 +44,12 @@ Top-50 and Top-22 finishes.
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pratham-K-890&show_icons=true&theme=default&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-K-890&layout=compact&theme=default" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Pratham-K-890&show_icons=true&theme=default&count_private=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pratham-K-890&layout=compact&theme=default" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-K-890&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratham-K-890&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
